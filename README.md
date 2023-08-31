@@ -1,2 +1,2 @@
-# basic_java
+# java_basico
 exercícios java
